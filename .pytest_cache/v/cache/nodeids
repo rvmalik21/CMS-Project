@@ -1,4 +1,5 @@
 [
+  "test_main.py::TestCCTBRepublish::test_RepublishCCTB",
   "tests/test_CMS.py::TestCCTBRepublish::test_RepublishCCTB",
   "tests/test_FrontCCTBSite.py::TestCCTB::test_CCBTHome"
 ]
